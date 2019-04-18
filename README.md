@@ -34,7 +34,7 @@
 - [DialogFlow Getting Starting Guide](https://dialogflow.com/docs/getting-started)
 - [Facebook Messenger Integration](https://dialogflow.com/docs/integrations/facebook)
 - [Firebase](https://firebase.google.com/docs/firestore/)
-- [Kommuicate]https://docs.kommunicate.io/
+- [Kommuicate](https://docs.kommunicate.io/)
 - [Bot Integration](https://www.kommunicate.io/blog/how-to-integrate-bot-using-dialogflow-in-kommunicate-1ac32911a7d0/)
 - [Dialogflow + Kommunicate](https://www.kommunicate.io/blog/beginners-guide-to-creating-chatbots-using-dialogflow/)
 
