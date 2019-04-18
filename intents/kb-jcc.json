@@ -1,0 +1,71 @@
+{
+  "id": "73ca2524-d34c-4378-92ae-6abe8601bbd6",
+  "name": "kb-jcc",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5361c023-e8c3-467c-b94e-8b49ae9e5c6d",
+          "required": false,
+          "dataType": "@jardines",
+          "name": "jardines",
+          "value": "$jardines",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Jardine Cycle and Carriage",
+          "imageUrl": "https://careers.jardines.com/storage/2018/08/JCC.jpg",
+          "buttons": []
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Jardine Cycle \u0026 Carriage is a leading Singapore-listed company. In addition to holding just over 50% in Astra International, it is growing its portfolio of automotive and other strategic interests in Southeast Asia, including in Indonesia, Vietnam, Singapore, Thailand, Malaysia and Myanmar."
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "The businesses include motor dealerships, financial services, dairy, cement, engineering and property."
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "payload": {
+            "platform": "kommunicate",
+            "metadata": {
+              "contentType": "300",
+              "templateId": "10",
+              "payload": [
+                {
+                  "title": "Jardine Cycle \u0026 Carriage",
+                  "subtitle": "Jardine Cycle \u0026 Carriage is a leading Singapore-listed company. In addition to holding just over 50% in Astra International, it is growing its portfolio of automotive and other strategic interests in Southeast Asia, including in Indonesia, Vietnam, Singapore, Thailand, Malaysia and Myanmar. \n\n The businesses include motor dealerships, financial services, dairy, cement, engineering and property.",
+                  "header": {
+                    "imgSrc": "https://careers.jardines.com/storage/2018/08/JCC.jpg"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

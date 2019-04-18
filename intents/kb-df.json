@@ -1,0 +1,60 @@
+{
+  "id": "ad06157a-42ad-415f-ac3d-8b853155d386",
+  "name": "kb-df",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://careers.jardines.com/storage/2018/08/Dairy-Farm.jpg"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Dairy Farm is a leading listed Asian retailer that is active across four divisions, being Food (including supermarkets, hypermarkets and convenience stores), Health and Beauty, Home Furnishings and Restaurants."
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "The group aims to provide quality and value to Asian consumers by offering leading brands, a compelling retail experience and great service, all provided through a strong store network supported by efficient supply chains."
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "payload": {
+            "platform": "kommunicate",
+            "metadata": {
+              "contentType": "300",
+              "templateId": "10",
+              "payload": [
+                {
+                  "title": "Dairy Farm",
+                  "subtitle": "Dairy Farm is a leading listed Asian retailer that is active across four divisions, being Food (including supermarkets, hypermarkets and convenience stores), Health and Beauty, Home Furnishings and Restaurants. The group aims to provide quality and value to Asian consumers by offering leading brands, a compelling retail experience and great service, all provided through a strong store network supported by efficient supply chains.",
+                  "header": {
+                    "imgSrc": "https://careers.jardines.com/storage/2018/08/Dairy-Farm.jpg"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

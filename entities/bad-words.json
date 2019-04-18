@@ -1,0 +1,8 @@
+{
+  "id": "4eb459e2-4329-4091-92e4-daa25275a705",
+  "name": "bad-words",
+  "isOverridable": true,
+  "isEnum": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

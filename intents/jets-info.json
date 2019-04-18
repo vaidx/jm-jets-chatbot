@@ -1,0 +1,142 @@
+{
+  "id": "aafb1157-2abe-4445-b936-b89ac3d02a6f",
+  "name": "jets-info",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "31412468-7b55-4016-ae08-36e7852fa2cb",
+          "required": false,
+          "dataType": "@jets",
+          "name": "jets",
+          "value": "$jets",
+          "isList": false
+        },
+        {
+          "id": "8cb9d8d2-6366-4dac-83b1-a1187f2db454",
+          "required": false,
+          "dataType": "@jardines",
+          "name": "jardines",
+          "value": "$jardines",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://media.cdn.gradconnection.com/uploads/d4cbfaac-1338-41b5-88fc-076f8d33c447-jets2.png"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "The immersive JETS experience blends mentoring, leadership training, interactive learning and time overseas. Over the course of 3 years, you will work in 6 functions across 2 industries."
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "You will develop business knowledge that covers everything you need to start out as a business leader. You will strengthen your natural Rare Talent – and find new ones. You will take on significant responsibilities quite early on in your career."
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Want to know more?",
+          "subtitle": "Choose from the given options",
+          "imageUrl": "https://media.cdn.gradconnection.com/uploads/cf212524-dc08-4d35-b1c6-4071925758d3-new-banner.png",
+          "buttons": [
+            {
+              "text": "Application Process",
+              "postback": "https://careers.jardines.com/trainee-scheme/#application_process"
+            },
+            {
+              "text": "Assessment Schedule",
+              "postback": "Assessment Schedule"
+            },
+            {
+              "text": "Apply Now",
+              "postback": "https://www2.jardinesrecruit.com/jets_form/"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "\"The immersive JETS experience blends mentoring, leadership training, interactive learning and time overseas. Over the course of 3 years, you will work in 6 functions across 2 industries.\""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You will develop business knowledge that covers everything you need to start out as a business leader. You will strengthen your natural Rare Talent – and find new ones. You will take on significant responsibilities quite early on in your career."
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "payload": {
+            "platform": "kommunicate",
+            "metadata": {
+              "contentType": "300",
+              "templateId": "10",
+              "payload": [
+                {
+                  "title": "Want to know more?",
+                  "subtitle": "Choose from the options given below",
+                  "header": {
+                    "imgSrc": "https://media.cdn.gradconnection.com/uploads/cf212524-dc08-4d35-b1c6-4071925758d3-new-banner.png"
+                  },
+                  "buttons": [
+                    {
+                      "name": "Application Process",
+                      "action": {
+                        "type": "link",
+                        "payload": {
+                          "url": "https://careers.jardines.com/trainee-scheme/#application_process"
+                        }
+                      }
+                    },
+                    {
+                      "name": "Suggested Reply",
+                      "action": {
+                        "type": "quickReply",
+                        "payload": {
+                          "title": "Assessment Schedule",
+                          "message": "Assessment Schedule"
+                        }
+                      }
+                    },
+                    {
+                      "name": "Apply Now",
+                      "action": {
+                        "type": "link",
+                        "payload": {
+                          "url": "https://www2.jardinesrecruit.com/jets_form/"
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551168612,
+  "fallbackIntent": false,
+  "events": []
+}

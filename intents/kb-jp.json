@@ -1,0 +1,72 @@
+{
+  "id": "d07adfee-6b97-4524-bea1-3ee345ec3d80",
+  "name": "kb-jp",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0096d5d1-2ee1-4de8-8340-8bad58444ad7",
+          "required": false,
+          "dataType": "@jardines",
+          "name": "jardines",
+          "value": "$jardines",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Jardine Pacific",
+          "subtitle": "",
+          "imageUrl": "https://careers.jardines.com/storage/2018/08/Jardine-Pacific.jpg",
+          "buttons": []
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Jardine Pacific’s diverse portfolio comprises industry leaders in the areas of engineering and construction, airport and transport services, restaurants and IT."
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Its companies seek to deliver excellent performance and best in class service to their customers and to create value for their business partners and shareholders."
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "payload": {
+            "platform": "kommunicate",
+            "metadata": {
+              "contentType": "300",
+              "templateId": "10",
+              "payload": [
+                {
+                  "title": "Jardine Pacific",
+                  "subtitle": "Jardine Pacific’s diverse portfolio comprises industry leaders in the areas of engineering and construction, airport and transport services, restaurants and IT. Its companies seek to deliver excellent performance and best in class service to their customers and to create value for their business partners and shareholders.",
+                  "header": {
+                    "imgSrc": "https://careers.jardines.com/storage/2018/08/Jardine-Pacific.jpg"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

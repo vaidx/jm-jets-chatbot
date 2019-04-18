@@ -1,0 +1,72 @@
+{
+  "id": "867d0633-e378-440a-b217-a6ddd620a86e",
+  "parentId": "90c78366-9ecb-48f1-900a-e84b79a84800",
+  "rootParentId": "90c78366-9ecb-48f1-900a-e84b79a84800",
+  "name": "jm-company - yes",
+  "auto": true,
+  "contexts": [
+    "jm-company-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "jm-company.jm-company-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "About Jardines",
+          "subtitle": "",
+          "imageUrl": "https://farm5.staticflickr.com/4011/4499623699_4bf9e3a49b_m.jpg",
+          "buttons": [
+            {
+              "text": "Learn More \u003e",
+              "postback": "https://careers.jardines.com/about-jardines/"
+            }
+          ]
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "payload": {
+            "platform": "kommunicate",
+            "metadata": {
+              "contentType": "300",
+              "templateId": "10",
+              "payload": [
+                {
+                  "title": "About Jardines",
+                  "header": {
+                    "imgSrc": "https://farm5.staticflickr.com/4011/4499623699_4bf9e3a49b_m.jpg"
+                  },
+                  "buttons": [
+                    {
+                      "name": "Learn More",
+                      "action": {
+                        "type": "link",
+                        "payload": {
+                          "url": "https://careers.jardines.com/about-jardines/"
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531867231,
+  "fallbackIntent": false,
+  "events": []
+}

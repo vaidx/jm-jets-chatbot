@@ -1,0 +1,109 @@
+{
+  "id": "90c78366-9ecb-48f1-900a-e84b79a84800",
+  "name": "jm-company",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "jm-company-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "We are one of the top 200 publicly traded companies in Asia, and a member of the Fortune 500."
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Through our businesses, we provide high-quality products, services and experiences to increasingly prosperous and digitally-connected consumers and businesses across Asia."
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "We are a major investor in a unique portfolio of industry-leading businesses spanning a wide range of sectors including premium property, first-rate motors, modern retail, world-class hotels and state-of-the-art engineering and construction."
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Diversity is our strength but what unifies our group of companies is a singular focus and purpose: to enhance the quality of life of Asia’s consumers."
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Learn more?",
+          "replies": [
+            "Yes",
+            "No"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "We are one of the top 200 publicly traded companies in Asia, and a member of the Fortune 500."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Through our businesses, we provide high-quality products, services and experiences to increasingly prosperous and digitally-connected consumers and businesses across Asia."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "We are a major investor in a unique portfolio of industry-leading businesses spanning a wide range of sectors including premium property, first-rate motors, modern retail, world-class hotels and state-of-the-art engineering and construction."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Diversity is our strength but what unifies our group of companies is a singular focus and purpose: to enhance the quality of life of Asia’s consumers."
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "payload": {
+            "message": "Learn more?",
+            "platform": "kommunicate",
+            "metadata": {
+              "contentType": "300",
+              "templateId": "6",
+              "payload": [
+                {
+                  "title": "Yes",
+                  "message": "Yes"
+                },
+                {
+                  "title": "No ",
+                  "message": ""
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false,
+        "facebook": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 750000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551167800,
+  "fallbackIntent": false,
+  "events": []
+}

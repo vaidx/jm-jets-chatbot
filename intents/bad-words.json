@@ -1,0 +1,66 @@
+{
+  "id": "3642eada-1975-417f-9b4a-7d93f9c3870c",
+  "name": "bad-words",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6ad14737-17c5-4f00-9ff6-7141e2ed9a95",
+          "required": false,
+          "dataType": "@bad-words",
+          "name": "bad-words",
+          "value": "$bad-words",
+          "isList": false
+        },
+        {
+          "id": "158019b3-01be-421e-8e3b-02627c733a1f",
+          "required": false,
+          "dataType": "@bad-words",
+          "name": "bad-words1",
+          "value": "$bad-words1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Please mind your tone and maintain the decorum of this conversation.",
+            "Stay civil and avoid using such offensive language."
+          ]
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://media.giphy.com/media/BKSpzP2p15pAs/giphy.gif"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": [
+            "Please mind your tone and maintain the decorum of this convo!",
+            "Stay civil and avoid using such offensive language.",
+            "Don\u0027t be rude. We are friends here!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1550539380,
+  "fallbackIntent": false,
+  "events": []
+}

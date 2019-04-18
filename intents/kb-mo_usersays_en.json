@@ -1,0 +1,111 @@
+[
+  {
+    "id": "6b0930a0-7653-4bc5-9837-76a66248c6a1",
+    "data": [
+      {
+        "text": "MO",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Hotel Group",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "08682d59-a151-4e8a-b0ea-bebf84cdd4fd",
+    "data": [
+      {
+        "text": "Hotel business",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c3af685c-8a17-47b1-bd3d-73713b8a119e",
+    "data": [
+      {
+        "text": "mandarin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " oriental",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dac8a0ae-74d0-4be3-b3e7-a2314c1c1f95",
+    "data": [
+      {
+        "text": "Does jardines operate restuarants too?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d23f4855-be18-431b-9851-181f7ec58b5d",
+    "data": [
+      {
+        "text": "mandarin oriental hotel group",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7d627139-0694-4765-adc2-1bc8dcec3d17",
+    "data": [
+      {
+        "text": "MO",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "43184a28-d183-440d-9b3a-981ae58e3876",
+    "data": [
+      {
+        "text": "Restaurants chains owned by Jardines",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bf9cd2ea-a64a-42db-b24e-f4b7b361ce33",
+    "data": [
+      {
+        "text": "Which is the name of Jardines hotel business?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ead01257-16ec-4411-bb6c-819a7ab0fb07",
+    "data": [
+      {
+        "text": "Jardine hotel chains",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

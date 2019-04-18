@@ -1,0 +1,225 @@
+[
+  {
+    "id": "25e6bf7f-0f5d-4d16-a804-4c2885a9f258",
+    "data": [
+      {
+        "text": "email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c214d46f-b983-4202-8001-58186e76b7f2",
+    "data": [
+      {
+        "text": "I need a real human",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "20808fd3-38ee-4dcc-b9ed-3632f314ac60",
+    "data": [
+      {
+        "text": "Can i get your mobile number?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "53c4aecd-9295-44ca-830c-0e82e00ed4fa",
+    "data": [
+      {
+        "text": "Can I postpone the interview?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "91c04240-7c36-4648-8c59-3914e7f10ae1",
+    "data": [
+      {
+        "text": "Is there a way to contact you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2df322b9-b4ad-4caf-a4be-094f137cab8f",
+    "data": [
+      {
+        "text": "Help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "aec18823-1d61-41c2-aeca-f9c86aea7702",
+    "data": [
+      {
+        "text": "need help asap",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3b8a5ac4-4fe4-45c9-8fc7-804e6fad8f16",
+    "data": [
+      {
+        "text": "I want your email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bf814c79-f31c-45c1-895c-bc3a40dbbec6",
+    "data": [
+      {
+        "text": "Can i talk to an HR person?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "aeb11557-581c-42bf-ac6c-cbd5f388e2e8",
+    "data": [
+      {
+        "text": "phone number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "36d89499-64a3-4327-b32d-a605d642c0f0",
+    "data": [
+      {
+        "text": "Can you get me in touch with a human?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ac7d2840-bb50-49b0-a4a2-2d2c874ab4de",
+    "data": [
+      {
+        "text": "submit query to HR",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fb912cb4-bc82-4576-96fa-cca94ef634af",
+    "data": [
+      {
+        "text": "I want to contact you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "906a4efe-a3bc-49c6-85ea-aaf6f5e335db",
+    "data": [
+      {
+        "text": "can i call?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5408fc14-1554-4b7a-8172-3da37a06b98e",
+    "data": [
+      {
+        "text": "contact us",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "522c6b9d-00b3-4fec-bf75-c8c0f5e45f5e",
+    "data": [
+      {
+        "text": "I need extra help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "810a059a-d5d4-4d22-a603-14138dae35b2",
+    "data": [
+      {
+        "text": "I can’t come for the interview. What should I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e51acac7-19ec-42be-8635-c0a90c850b7f",
+    "data": [
+      {
+        "text": "How should i contact you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0070b958-03d9-4f38-85bb-8b5bdbc68788",
+    "data": [
+      {
+        "text": "I need to contact hr",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "806ce69e-1509-429f-a3e2-32600e5f0325",
+    "data": [
+      {
+        "text": "can i email you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

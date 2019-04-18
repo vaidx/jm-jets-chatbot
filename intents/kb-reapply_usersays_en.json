@@ -1,0 +1,111 @@
+[
+  {
+    "id": "7bed0249-6692-4cd3-af08-fee0a52dbcbc",
+    "data": [
+      {
+        "text": "is re-applying allowed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2d344cb3-ef8c-42ab-a859-29a316a38be9",
+    "data": [
+      {
+        "text": "how many times can i apply for ",
+        "userDefined": false
+      },
+      {
+        "text": "JETS",
+        "alias": "jets",
+        "meta": "@jets",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3d80e99a-8df7-4553-9bbb-befc7f7da841",
+    "data": [
+      {
+        "text": "can i apply again if I am rejected once?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "917edb3a-1195-446a-9258-07f397f6e57d",
+    "data": [
+      {
+        "text": "is there a maximum number of times to apply for ",
+        "userDefined": false
+      },
+      {
+        "text": "JETS",
+        "alias": "jets",
+        "meta": "@jets",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "66870f30-76f4-40f4-bc79-13d9f9701bc6",
+    "data": [
+      {
+        "text": "is applying the second time is allowed or not?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d8d6addc-e960-45a8-af0e-238596845850",
+    "data": [
+      {
+        "text": "can i re apply ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e3c76044-fd33-47dd-bb9d-e6ec76bce79a",
+    "data": [
+      {
+        "text": "If I am unsuccessful in my application, can I re-apply?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d8161d90-94da-4225-b6dd-81f0c9604853",
+    "data": [
+      {
+        "text": "can i apply again?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

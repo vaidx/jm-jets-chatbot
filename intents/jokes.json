@@ -1,0 +1,39 @@
+{
+  "id": "4a77a0c4-d240-4784-a56a-c86b9154053a",
+  "name": "jokes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "73d2efc4-0a30-4942-9666-cab6813a492d",
+          "required": false,
+          "dataType": "@joke",
+          "name": "joke",
+          "value": "$joke",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551234369,
+  "fallbackIntent": false,
+  "events": []
+}

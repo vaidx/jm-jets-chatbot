@@ -1,0 +1,67 @@
+{
+  "id": "fab8a3f1-c2aa-4130-8806-c0ec456074e8",
+  "name": "contact-us",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Contact Us",
+          "subtitle": "Reach out to us in case of any queries regarding your JETS application.",
+          "imageUrl": "https://4.bp.blogspot.com/-_XHZVCDwEcc/V9_CAYNkjpI/AAAAAAAAGsE/QUg9mOn-dyg_ScLQI-aJPN0rNHOXsSUXwCLcB/s1600/Jardine%2BMatheson%2BHoldings.png",
+          "buttons": [
+            {
+              "text": "Help me!",
+              "postback": "https://careers.jardines.com/contact-us/"
+            }
+          ]
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "payload": {
+            "platform": "kommunicate",
+            "metadata": {
+              "contentType": "300",
+              "templateId": "10",
+              "payload": [
+                {
+                  "title": "Contact Us",
+                  "header": {
+                    "imgSrc": "https://4.bp.blogspot.com/-_XHZVCDwEcc/V9_CAYNkjpI/AAAAAAAAGsE/QUg9mOn-dyg_ScLQI-aJPN0rNHOXsSUXwCLcB/s1600/Jardine%2BMatheson%2BHoldings.png"
+                  },
+                  "description": "Reach out to us in case of any queries.",
+                  "buttons": [
+                    {
+                      "name": "Help me!",
+                      "action": {
+                        "type": "link",
+                        "payload": {
+                          "url": "https://careers.jardines.com/contact-us/"
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

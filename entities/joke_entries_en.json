@@ -1,0 +1,16 @@
+[
+  {
+    "value": "joke",
+    "synonyms": [
+      "joke",
+      "jokes",
+      "fun fact"
+    ]
+  },
+  {
+    "value": "laugh",
+    "synonyms": [
+      "laugh"
+    ]
+  }
+]

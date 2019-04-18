@@ -1,0 +1,28 @@
+[
+  {
+    "id": "eddc117f-1f52-4624-b2dd-7b15d10d7df2",
+    "data": [
+      {
+        "text": "four",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e810b8d7-f013-4abd-99d2-e19e1c50710c",
+    "data": [
+      {
+        "text": "4",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

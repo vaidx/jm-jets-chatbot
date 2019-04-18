@@ -1,0 +1,103 @@
+[
+  {
+    "id": "9bcc65dc-3ae3-467a-9fae-4e3171828b21",
+    "data": [
+      {
+        "text": "when can i expect to get the results?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "39a33296-a945-4f0c-afa9-19b56e9d4270",
+    "data": [
+      {
+        "text": "when will you guys get back to me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "94ebd378-d0a7-4e00-9c52-d73ac8f7706f",
+    "data": [
+      {
+        "text": "When will I hear back?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2e9ccd69-8dd7-445f-8724-0155c7062d0b",
+    "data": [
+      {
+        "text": "do I receive an email if my application is unsuccessful?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b09a339c-0796-4461-84f6-ae8b94f7f915",
+    "data": [
+      {
+        "text": "I haven\u0027t received any emails regarding the application status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "df401234-1e88-429a-a210-98bbb9ca6fe4",
+    "data": [
+      {
+        "text": "I haven\u0027t received any updates",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "08b16f84-c8a5-48f7-835d-8132a9210ea0",
+    "data": [
+      {
+        "text": "do I get notified if I am not selected?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c5c0249d-56be-42b7-8544-62ebfd977e44",
+    "data": [
+      {
+        "text": "When can I expect to hear back?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d3a95891-8f03-420f-a078-cd3f7e85d6a9",
+    "data": [
+      {
+        "text": "How much time before I will hear back from you HR?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

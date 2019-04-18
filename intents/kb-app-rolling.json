@@ -1,0 +1,60 @@
+{
+  "id": "7f066ead-cf40-41d1-b0d8-4ef27972e2c7",
+  "name": "kb-app-rolling",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "No, we will only commence screening candidates after the application deadline. Please refer to the Application Process for more details."
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Want to proceed?",
+          "replies": [
+            "Application Process"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "No, we will only commence screening candidates after the application deadline."
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "payload": {
+            "message": "Please refer to the \u0027Application Process\u0027 for the details.",
+            "platform": "kommunicate",
+            "metadata": {
+              "contentType": "300",
+              "templateId": "6",
+              "payload": [
+                {
+                  "title": "Want to Proceed?",
+                  "message": "Application Process"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

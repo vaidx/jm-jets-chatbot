@@ -1,0 +1,47 @@
+{
+  "id": "bbac5243-ffce-4bc0-9e9a-3f58b7825a62",
+  "name": "jets-salary",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Your salaries will be calibrated against those of the market (e.g., the Big 4) and the company you are joining. For those pursuing a finance path, this is more predictable. For those following a generalist track it is not as straightforward."
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Indeed, it\u0027s conceivable that you may even have to take a temporary step backwards in order to move forwards. However, it\u0027s important to balance off all aspects of the scheme and career opportunities - not just $. However, once you have completed your 3 years+ training, you will be paid the market rate for that role."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Your salaries will be calibrated against those of the market (e.g., the Big 4) and the company you are joining. For those pursuing a finance path, this is more predictable. For those following a generalist track it is not as straightforward."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Indeed, it\u0027s conceivable that you may even have to take a temporary step backwards in order to move forwards. However, it\u0027s important to balance off all aspects of the scheme and career opportunities - not just $. However, once you have completed your 3 years+ training, you will be paid the market rate for that role."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551148956,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "16c7a655-f94e-4830-9f65-125b990db1ea",
+    "data": [
+      {
+        "text": "can i apply via email id?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fa297450-79d1-4a54-91e6-5e2c02855bd5",
+    "data": [
+      {
+        "text": "how can i apply for ",
+        "userDefined": false
+      },
+      {
+        "text": "JETS",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "323112f9-8b80-4544-8895-02385ec91300",
+    "data": [
+      {
+        "text": "can i apply using email?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5e968821-9da5-46ac-8eaa-4e454e29572d",
+    "data": [
+      {
+        "text": "Can I make a speculative application by email?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

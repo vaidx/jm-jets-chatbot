@@ -1,0 +1,71 @@
+{
+  "id": "6b89a72c-97c4-46eb-b485-7881875f0644",
+  "name": "kb-jmmotors",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "81465bca-a73c-43cf-8480-8bfdd5d2a95b",
+          "required": false,
+          "dataType": "@jardines",
+          "name": "jardines",
+          "value": "$jardines",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Jardine Motors",
+          "imageUrl": "https://careers.jardines.com/storage/2018/08/2018-AMG-GT-S-COUPE-MODEL-030-MCFO.jpg",
+          "buttons": []
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Jardine Motors is engaged in the sales and service of motor vehicles and related activities."
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "It has operations in Hong Kong, Macau and the United Kingdom, and a large and growing presence in Southern China. It combines a customer-oriented approach with first class products and services."
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "payload": {
+            "platform": "kommunicate",
+            "metadata": {
+              "contentType": "300",
+              "templateId": "10",
+              "payload": [
+                {
+                  "title": "Jardine Motors",
+                  "subtitle": "Jardine Motors is engaged in the sales and service of motor vehicles and related activities. It has operations in Hong Kong, Macau and the United Kingdom, and a large and growing presence in Southern China. It combines a customer-oriented approach with first class products and services.",
+                  "header": {
+                    "imgSrc": "https://careers.jardines.com/storage/2018/08/2018-AMG-GT-S-COUPE-MODEL-030-MCFO.jpg"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

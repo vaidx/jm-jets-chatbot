@@ -1,0 +1,95 @@
+{
+  "id": "6e96ba47-ce03-4351-ace9-4273be53a47d",
+  "name": "jets-faqs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "56dc77f3-4e2f-4c3f-b50f-d53e85514482",
+          "required": false,
+          "dataType": "@jardines",
+          "name": "jardines",
+          "value": "$jardines",
+          "isList": false
+        },
+        {
+          "id": "5f83dc86-d7a6-4fa6-915d-305ea763907f",
+          "required": false,
+          "dataType": "@faqs",
+          "name": "faqs",
+          "value": "$faqs",
+          "isList": false
+        },
+        {
+          "id": "444a5845-6092-4ddd-a9c8-c6284ee3079b",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "FAQs",
+          "subtitle": "Frequently Asked Questions (for JETS)",
+          "imageUrl": "https://4.bp.blogspot.com/-_XHZVCDwEcc/V9_CAYNkjpI/AAAAAAAAGsE/QUg9mOn-dyg_ScLQI-aJPN0rNHOXsSUXwCLcB/s1600/Jardine%2BMatheson%2BHoldings.png",
+          "buttons": [
+            {
+              "text": "Click here",
+              "postback": "https://careers.jardines.com/faq/"
+            }
+          ]
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "payload": {
+            "platform": "kommunicate",
+            "metadata": {
+              "contentType": "300",
+              "templateId": "10",
+              "payload": [
+                {
+                  "title": "FAQs",
+                  "header": {
+                    "imgSrc": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Jardine_Matheson_Holdings_logo.svg/1200px-Jardine_Matheson_Holdings_logo.png"
+                  },
+                  "description": "A list of a few frequently asked questions regarding the JETS Application 2020",
+                  "buttons": [
+                    {
+                      "name": "Click Here",
+                      "action": {
+                        "type": "link",
+                        "payload": {
+                          "url": "https://careers.jardines.com/faq/"
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1550550030,
+  "fallbackIntent": false,
+  "events": []
+}

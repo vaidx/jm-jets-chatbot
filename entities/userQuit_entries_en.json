@@ -1,0 +1,23 @@
+[
+  {
+    "value": "Bye",
+    "synonyms": [
+      "Bye",
+      "goodbye",
+      "bye bye"
+    ]
+  },
+  {
+    "value": "quit",
+    "synonyms": [
+      "quit",
+      "close",
+      "end",
+      "finish session",
+      "finish",
+      "over",
+      "esc",
+      "I want to quit"
+    ]
+  }
+]

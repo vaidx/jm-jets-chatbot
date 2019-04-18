@@ -1,0 +1,60 @@
+{
+  "id": "bc1a0cc4-8f57-4b3f-852d-e4452d13f89b",
+  "name": "kb-hk-land",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://careers.jardines.com/storage/2018/08/Hongkong-Land.jpg"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "HongKong Land is a major listed property investment, management and development group that operates under the principles of excellence, integrity and partnership. Its more than 850,000 sq. m. of prime office and retail space in Hong Kong, Singapore and other major Asian cities attracts the world’s foremost companies and luxury brands."
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "The group also has a number of high quality residential and mixed-use projects under development in cities across Greater China and Southeast Asia."
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "payload": {
+            "platform": "kommunicate",
+            "metadata": {
+              "contentType": "300",
+              "templateId": "10",
+              "payload": [
+                {
+                  "title": "Hong Kong Land",
+                  "subtitle": "HongKong Land is a major listed property investment, management and development group that operates under the principles of excellence, integrity and partnership. Its more than 850,000 sq. m. of prime office and retail space in Hong Kong, Singapore and other major Asian cities attracts the world’s foremost companies and luxury brands. The group also has a number of high quality residential and mixed-use projects under development in cities across Greater China and Southeast Asia. ",
+                  "header": {
+                    "imgSrc": "https://careers.jardines.com/storage/2018/08/Hongkong-Land.jpg"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

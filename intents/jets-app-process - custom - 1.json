@@ -1,0 +1,41 @@
+{
+  "id": "bc788380-b023-44b9-908d-5ea9cd1ffa5b",
+  "parentId": "81921c49-9409-47ac-9360-e0a714a82ffb",
+  "rootParentId": "81921c49-9409-47ac-9360-e0a714a82ffb",
+  "name": "jets-app-process - custom - 1",
+  "auto": true,
+  "contexts": [
+    "jets-app-process-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "jets-app-process.jets-app-process-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1f7c955f-0c60-4e6b-ba13-02fb484cbeda",
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Simply register your interest and share your CV."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

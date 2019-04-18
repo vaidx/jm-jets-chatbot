@@ -1,0 +1,224 @@
+[
+  {
+    "id": "00c67935-1bd1-4fd0-8b57-1b1f827ea881",
+    "data": [
+      {
+        "text": "shit bot",
+        "alias": "bad-words",
+        "meta": "@bad-words",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "85b6e988-e0ad-483b-bd4d-b6de122b9316",
+    "data": [
+      {
+        "text": "F off",
+        "alias": "bad-words",
+        "meta": "@bad-words",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c911e29f-3ea8-4c62-bb63-fff7f04e00bd",
+    "data": [
+      {
+        "text": "shit",
+        "alias": "bad-words1",
+        "meta": "@bad-words",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ed393c6d-4bce-4d29-aa41-d210a7150b94",
+    "data": [
+      {
+        "text": "shit",
+        "alias": "bad-words",
+        "meta": "@bad-words",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "fuck",
+        "alias": "bad-words1",
+        "meta": "@bad-words",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d8a7e164-94bf-497e-9875-241ee188c19c",
+    "data": [
+      {
+        "text": "shit",
+        "alias": "bad-words",
+        "meta": "@bad-words",
+        "userDefined": false
+      },
+      {
+        "text": " man",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f5cee6b6-c12b-4110-87a0-ac0f6d5d4a87",
+    "data": [
+      {
+        "text": "chup kar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "713f3f83-f46a-4c86-bac9-5e836405c51c",
+    "data": [
+      {
+        "text": "what the ",
+        "userDefined": false
+      },
+      {
+        "text": "fuck",
+        "alias": "bad-words",
+        "meta": "@bad-words",
+        "userDefined": true
+      },
+      {
+        "text": " do you ",
+        "userDefined": false
+      },
+      {
+        "text": "mean",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8d257896-d819-46a7-aa64-168ce0ec64d9",
+    "data": [
+      {
+        "text": "Fuck",
+        "alias": "bad-words",
+        "meta": "@bad-words",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1550539380
+  },
+  {
+    "id": "d37d83e9-eccb-42c1-9e52-c428bc64d7d6",
+    "data": [
+      {
+        "text": "are you a ",
+        "userDefined": false
+      },
+      {
+        "text": "fucking",
+        "alias": "bad-words",
+        "meta": "@bad-words",
+        "userDefined": false
+      },
+      {
+        "text": " idiot?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0efa4050-6de4-42ac-b80d-f104d23fb791",
+    "data": [
+      {
+        "text": "f u",
+        "alias": "bad-words1",
+        "meta": "@bad-words",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "df9a4a45-becc-439b-bba7-7fb49a2b34cd",
+    "data": [
+      {
+        "text": "what the ",
+        "userDefined": false
+      },
+      {
+        "text": "fuck",
+        "alias": "bad-words",
+        "meta": "@bad-words",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b7c7ffe6-ff75-41ac-be57-f2c74278bf8e",
+    "data": [
+      {
+        "text": "you are so full of ",
+        "userDefined": false
+      },
+      {
+        "text": "shit",
+        "alias": "bad-words1",
+        "meta": "@bad-words",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "124b55eb-b8b6-44fe-8472-4f180d206d98",
+    "data": [
+      {
+        "text": "Fuck off",
+        "alias": "bad-words",
+        "meta": "@bad-words",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

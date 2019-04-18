@@ -1,0 +1,62 @@
+{
+  "id": "5c6258d5-e57d-4aa3-8c41-2ad3e83cccf7",
+  "name": "kb-astra",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://careers.jardines.com/storage/2018/08/Astra.jpg"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Astra is a major listed Indonesian group working through its seven business lines – Automotive; Financial Services; Heavy Equipment, Mining, Construction \u0026 Energy; Agribusiness; Infrastructure and Logistics, Information Technology; and Property."
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Astra’s philosophy is to be an asset to the nation with an emphasis on sustainable growth, through providing the best services to its customers, a first class working environment and socially responsible outlook. Jardine Cycle \u0026 Carriage has a shareholding of just over 50%."
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "payload": {
+            "platform": "kommunicate",
+            "metadata": {
+              "contentType": "300",
+              "templateId": "10",
+              "payload": [
+                {
+                  "title": "Astra International",
+                  "subtitle": "Astra is a major listed Indonesian group working through its seven business lines – Automotive; Financial Services; Heavy Equipment, Mining, Construction \u0026 Energy; Agribusiness; Infrastructure and Logistics, Information Technology; and Property. Astra’s philosophy is to be an asset to the nation with an emphasis on sustainable growth, through providing the best services to its customers, a first class working environment and socially responsible outlook. Jardine Cycle \u0026 Carriage has a shareholding of just over 50%.",
+                  "header": {
+                    "imgSrc": "https://careers.jardines.com/storage/2018/08/Astra.jpg"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

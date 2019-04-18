@@ -1,0 +1,35 @@
+{
+  "id": "2f854f8d-4d60-4a79-bab7-10cd687f1cbf",
+  "name": "kb-app-total-time",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "We aim to move candidates quickly through our recruitment process and keep you informed at every stage. The entire process typically takes 8 weeks to complete."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "We aim to move candidates quickly through our recruitment process and keep you informed at every stage. The entire process typically takes 8 weeks to complete."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

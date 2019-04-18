@@ -1,0 +1,76 @@
+[
+  {
+    "id": "b683c8a0-c67a-4b85-9e16-866ec06a743a",
+    "data": [
+      {
+        "text": "Our Company",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539674845
+  },
+  {
+    "id": "a9f86b3f-61ce-4e7f-96c2-4cc99a36be2e",
+    "data": [
+      {
+        "text": "Tell me more ",
+        "userDefined": false
+      },
+      {
+        "text": "about",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " the Jardines brand?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551167800
+  },
+  {
+    "id": "9060f96f-7604-4b44-9978-f42ebc1c96c8",
+    "data": [
+      {
+        "text": "Jardines brand",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551167800
+  },
+  {
+    "id": "d9d5743e-292e-46bb-a5d3-3b4c075c3a81",
+    "data": [
+      {
+        "text": "What does Jardines do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551167800
+  },
+  {
+    "id": "3962c860-02b0-4bed-b1f9-296ed5b0f7af",
+    "data": [
+      {
+        "text": "About",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Jardines",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551167800
+  }
+]

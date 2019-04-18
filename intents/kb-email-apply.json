@@ -1,0 +1,33 @@
+{
+  "id": "1a9bc840-5c54-4085-bf9c-595ed3639c11",
+  "name": "kb-email-apply",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Applications must be made through the online application form, which can be found on the JETS website. Speculative applications by any other method will not be considered."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Applications must be made through the online application form, which can be found on the JETS website. Speculative applications by any other method will not be considered."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

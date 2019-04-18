@@ -1,0 +1,95 @@
+{
+  "id": "81921c49-9409-47ac-9360-e0a714a82ffb",
+  "name": "jets-app-process",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "jets-app-process-followup",
+          "parameters": {},
+          "lifespan": 4
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Our application process is specifically designed for us to see the best in our candidates in the most objective and impartial way."
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Applications must be made using our online application form. Short-listed candidates will be notified regarding the next stage in the recruitment process as follows: \n1. Online Application (10 mins)\n2. Online Tests (70 mins)\n3. On-Demand Video Interview (20 mins)\n4. Assessment Centre (Full Day, In person)\n5. Offer"
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "If you want to know more about any of the stages, please click on the relevant stage number below:",
+          "replies": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Our application process is specifically designed for us to see the best in our candidates in the most objective and impartial way."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Applications must be made using our online application form. Short-listed candidates will be notified regarding the next stage in the recruitment process as follows: \n1. Online Application (10 mins)\n2. Online Tests (70 mins)\n3. On-Demand Video Interview (20 mins)\n4. Assessment Centre (Full Day, In person) \n5. Offer"
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "payload": {
+            "message": "If you want to know more about any of the stages, please click the buttons below",
+            "platform": "kommunicate",
+            "metadata": {
+              "contentType": "300",
+              "templateId": "6",
+              "payload": [
+                {
+                  "title": "Online Application",
+                  "message": "1"
+                },
+                {
+                  "title": "Online Tests",
+                  "message": "2"
+                },
+                {
+                  "title": "Video Interview",
+                  "message": "3"
+                },
+                {
+                  "title": "Assessment Centre",
+                  "message": "4"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551172247,
+  "fallbackIntent": false,
+  "events": []
+}

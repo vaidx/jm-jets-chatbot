@@ -1,0 +1,89 @@
+{
+  "id": "7c8d50d7-68a6-4c9d-8995-434226920384",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [
+        {
+          "name": "DefaultFallbackIntent-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://media.giphy.com/media/l0MYRacWiUSxR2JMc/giphy.gif"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Having trouble?",
+          "subtitle": "If you cannot find what you were looking for, try one of the options below.",
+          "imageUrl": "",
+          "buttons": [
+            {
+              "text": "Menu",
+              "postback": "Menu"
+            },
+            {
+              "text": "Support",
+              "postback": "Contact Us"
+            },
+            {
+              "text": "No thanks, I\u0027m good!"
+            }
+          ]
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "payload": {
+            "message": "If you are seeing this message for a 3rd time consecutively, I may be having trouble understanding your query. Try choosing one of the options listed below instead",
+            "platform": "kommunicate",
+            "metadata": {
+              "contentType": "300",
+              "templateId": "6",
+              "payload": [
+                {
+                  "title": "FAQs",
+                  "message": "FAQs"
+                },
+                {
+                  "title": "Send an email to HR",
+                  "message": "Contact us"
+                },
+                {
+                  "title": "Menu",
+                  "message": "Menu"
+                },
+                {
+                  "title": "No thanks! I\u0027m good.",
+                  "message": "Cool"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1550481407,
+  "fallbackIntent": true,
+  "events": []
+}

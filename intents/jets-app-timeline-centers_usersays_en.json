@@ -1,0 +1,155 @@
+[
+  {
+    "id": "603a6ad5-ceb5-4200-b487-5e0c0543158b",
+    "data": [
+      {
+        "text": "shanghai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b14dc4ca-4212-422a-8252-61c36fe8c05a",
+    "data": [
+      {
+        "text": "application deadline",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539654847
+  },
+  {
+    "id": "5248b65a-c199-4780-b1b9-9e2e2364e375",
+    "data": [
+      {
+        "text": "assessment center country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "579a2df5-03e8-4ea0-a283-36b5149f7bcb",
+    "data": [
+      {
+        "text": "application timeline",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539594674
+  },
+  {
+    "id": "cc2e728e-51b8-4b88-9632-3814244bccdb",
+    "data": [
+      {
+        "text": "countries where assesment centres are located",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c9b20c03-f8a2-44c4-a9c2-d93e8921440d",
+    "data": [
+      {
+        "text": "show me the application schedule",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539655076
+  },
+  {
+    "id": "87577932-2bb6-45ac-9fd2-fc5637198b3a",
+    "data": [
+      {
+        "text": "where are the assessment centres?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "f5a5d911-a92e-4423-9405-3e2226bb82dc",
+    "data": [
+      {
+        "text": "where are the assessment centers?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "269e323f-ee4a-4ad5-8507-322c9b86c8ce",
+    "data": [
+      {
+        "text": "assessment schedule",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539593735
+  },
+  {
+    "id": "ace9d4d7-0e56-44ad-bd20-8850ff7e6f4a",
+    "data": [
+      {
+        "text": "what is deadline for jets application?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "7b1c5ebc-b52c-47fe-8e01-14a6570683db",
+    "data": [
+      {
+        "text": "assessment centres?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "9b715b0f-eeac-4058-ae21-d6554a3b2546",
+    "data": [
+      {
+        "text": "application schedule",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539593735
+  },
+  {
+    "id": "3cdc8a89-d308-4ae6-bad9-e490914ca7ab",
+    "data": [
+      {
+        "text": "assessment centre countries",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

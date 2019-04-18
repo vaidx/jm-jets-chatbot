@@ -1,0 +1,108 @@
+[
+  {
+    "id": "7cd8c6a6-2680-476c-adb8-b4b1e7a7287e",
+    "data": [
+      {
+        "text": "quit session",
+        "alias": "userQuit",
+        "meta": "@userQuit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2889b698-f014-43ec-afe8-ccc4b80a88ee",
+    "data": [
+      {
+        "text": "I would like to ",
+        "userDefined": false
+      },
+      {
+        "text": "quit",
+        "alias": "userQuit",
+        "meta": "@userQuit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539591317
+  },
+  {
+    "id": "20c0e7a8-3d56-45b2-9d81-0f840d29e545",
+    "data": [
+      {
+        "text": "I want to ",
+        "userDefined": false
+      },
+      {
+        "text": "quit",
+        "alias": "userQuit",
+        "meta": "@userQuit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1539591317
+  },
+  {
+    "id": "0e746fcd-bb91-4270-aaea-bf190994b15a",
+    "data": [
+      {
+        "text": "Close",
+        "alias": "userQuit",
+        "meta": "@userQuit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535353598
+  },
+  {
+    "id": "a7b03038-e16b-4041-bd85-e9f4542c538d",
+    "data": [
+      {
+        "text": "Bye",
+        "alias": "userQuit",
+        "meta": "@userQuit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1539591317
+  },
+  {
+    "id": "23045d47-ff49-481c-86d9-e70c2563178b",
+    "data": [
+      {
+        "text": "Exit",
+        "alias": "userQuit",
+        "meta": "@userQuit",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539662976
+  },
+  {
+    "id": "68899688-3a2f-4b74-a0cf-ec54950087f1",
+    "data": [
+      {
+        "text": "Quit",
+        "alias": "userQuit",
+        "meta": "@userQuit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539591317
+  }
+]

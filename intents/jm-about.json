@@ -1,0 +1,98 @@
+{
+  "id": "cb20d74e-e32b-44f7-8e6d-758780f38f49",
+  "name": "jm-about",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "About Jardines",
+          "subtitle": "What would you like to know about?",
+          "imageUrl": "https://4.bp.blogspot.com/-_XHZVCDwEcc/V9_CAYNkjpI/AAAAAAAAGsE/QUg9mOn-dyg_ScLQI-aJPN0rNHOXsSUXwCLcB/s1600/Jardine%2BMatheson%2BHoldings.png",
+          "buttons": [
+            {
+              "text": "Our Company",
+              "postback": "Our Company"
+            },
+            {
+              "text": "History",
+              "postback": "History"
+            },
+            {
+              "text": "Business Units",
+              "postback": "https://careers.jardines.com/about-jardines/#business_units"
+            }
+          ]
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "payload": {
+            "platform": "kommunicate",
+            "metadata": {
+              "contentType": "300",
+              "templateId": "10",
+              "payload": [
+                {
+                  "title": "About Jardines",
+                  "subtitle": "What would you like to know about?",
+                  "header": {
+                    "imgSrc": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Jardine_Matheson_Holdings_logo.svg/1200px-Jardine_Matheson_Holdings_logo.png"
+                  },
+                  "buttons": [
+                    {
+                      "name": "Suggested Reply",
+                      "action": {
+                        "type": "quickReply",
+                        "payload": {
+                          "title": "Our Company",
+                          "message": "Our Company"
+                        }
+                      }
+                    },
+                    {
+                      "name": "Suggested Reply",
+                      "action": {
+                        "type": "quickReply",
+                        "payload": {
+                          "title": "History",
+                          "message": "History"
+                        }
+                      }
+                    },
+                    {
+                      "name": "Business Units",
+                      "action": {
+                        "type": "link",
+                        "payload": {
+                          "url": "https://careers.jardines.com/about-jardines/#business_units"
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 1000000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1550540670,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,167 @@
+{
+  "id": "85c3b871-abd5-48b2-b431-c59b562171de",
+  "name": "jets-app-timeline-centers",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "At the Assessment Centre, candidates will undergo a rigorous round of assessments including a group case discussion, business presentation, psychometric tests, and a series of panel interviews."
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Senior Executives from Group HR and the business (Group Companies) will be invited to the Assessment Centre as observers."
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Assessment Schedule",
+          "subtitle": "Choose your country",
+          "imageUrl": "https://4.bp.blogspot.com/-_XHZVCDwEcc/V9_CAYNkjpI/AAAAAAAAGsE/QUg9mOn-dyg_ScLQI-aJPN0rNHOXsSUXwCLcB/s1600/Jardine%2BMatheson%2BHoldings.png",
+          "buttons": [
+            {
+              "text": "Singapore",
+              "postback": "https://careers.jardines.com/storage/2018/09/Jardines-Website_Singapore_180831b-07-1.png"
+            },
+            {
+              "text": "Beijing",
+              "postback": "https://careers.jardines.com/storage/2018/09/Jardines-Website_Beijing_180831b-07-1.png"
+            },
+            {
+              "text": "United Kingdom",
+              "postback": "https://careers.jardines.com/storage/2018/09/Jardines-Website_UK_180831-07-1.png"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Assessment Schedule",
+          "subtitle": "Choose your country",
+          "imageUrl": "https://4.bp.blogspot.com/-_XHZVCDwEcc/V9_CAYNkjpI/AAAAAAAAGsE/QUg9mOn-dyg_ScLQI-aJPN0rNHOXsSUXwCLcB/s1600/Jardine%2BMatheson%2BHoldings.png",
+          "buttons": [
+            {
+              "text": "Vietnam",
+              "postback": "https://careers.jardines.com/storage/2018/09/Jardines-Website_Vietnam_180831-07.png"
+            },
+            {
+              "text": "Hong Kong",
+              "postback": "https://careers.jardines.com/storage/2018/09/Jardines-Website_HK_180831b-07-1.png"
+            },
+            {
+              "text": "Shanghai",
+              "postback": "https://careers.jardines.com/storage/2018/09/Jardines-Website_Shanghai_180831b-07-1.png"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "At the Assessment Centre, candidates will undergo a rigorous round of assessments including a group case discussion, business presentation, psychometric tests, and a series of panel interviews."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Senior Executives from Group HR and the business (Group Companies) will be invited to the Assessment Centre as observers."
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "payload": {
+            "platform": "kommunicate",
+            "metadata": {
+              "contentType": "300",
+              "templateId": "10",
+              "payload": [
+                {
+                  "title": "Assessment Schedule",
+                  "subtitle": "Select your country below to know more about the country-specific schedule",
+                  "header": {
+                    "imgSrc": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Jardine_Matheson_Holdings_logo.svg/1200px-Jardine_Matheson_Holdings_logo.png"
+                  },
+                  "buttons": [
+                    {
+                      "name": "Singapore",
+                      "action": {
+                        "type": "link",
+                        "payload": {
+                          "url": "https://careers.jardines.com/storage/2018/09/Jardines-Website_Singapore_180831b-07-1.png"
+                        }
+                      }
+                    },
+                    {
+                      "name": "Beijing",
+                      "action": {
+                        "type": "link",
+                        "payload": {
+                          "url": "https://careers.jardines.com/storage/2018/09/Jardines-Website_Beijing_180831b-07-1.png"
+                        }
+                      }
+                    },
+                    {
+                      "name": "United Kingdom",
+                      "action": {
+                        "type": "link",
+                        "payload": {
+                          "url": "https://careers.jardines.com/storage/2018/09/Jardines-Website_UK_180831-07-1.png"
+                        }
+                      }
+                    },
+                    {
+                      "name": "Hong Kong",
+                      "action": {
+                        "type": "link",
+                        "payload": {
+                          "url": "https://careers.jardines.com/storage/2018/09/Jardines-Website_HK_180831b-07-1.png"
+                        }
+                      }
+                    },
+                    {
+                      "name": "Vietnam",
+                      "action": {
+                        "type": "link",
+                        "payload": {
+                          "url": "https://careers.jardines.com/storage/2018/09/Jardines-Website_Vietnam_180831-07.png"
+                        }
+                      }
+                    },
+                    {
+                      "name": "Shanghai",
+                      "action": {
+                        "type": "link",
+                        "payload": {
+                          "url": "https://careers.jardines.com/storage/2018/09/Jardines-Website_Shanghai_180831b-07-1.png"
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1550540145,
+  "fallbackIntent": false,
+  "events": []
+}

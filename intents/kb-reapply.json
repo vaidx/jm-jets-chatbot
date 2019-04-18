@@ -1,0 +1,42 @@
+{
+  "id": "76a27ed5-ea51-4768-b021-d407881d006f",
+  "name": "kb-reapply",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "aad5aaf8-6136-47b9-8ad7-713c281a5911",
+          "required": false,
+          "dataType": "@jets",
+          "name": "jets",
+          "value": "$jets",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "You can re-apply if you have not been invited to our Assessment Centre in your previous application."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can re-apply if you have not been invited to our Assessment Centre in your previous application."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "value": "schedule",
+    "synonyms": [
+      "schedule",
+      "timeline",
+      "deadline"
+    ]
+  },
+  {
+    "value": "application deadline",
+    "synonyms": [
+      "application deadline",
+      "application timeline",
+      "application schedule"
+    ]
+  },
+  {
+    "value": "assessment schedule",
+    "synonyms": [
+      "assessment schedule",
+      "assessment timeline",
+      "assessment deadline"
+    ]
+  }
+]

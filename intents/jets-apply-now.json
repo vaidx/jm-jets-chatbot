@@ -1,0 +1,81 @@
+{
+  "id": "f7dda5d8-b792-4e7f-9081-59e0ef67f9b4",
+  "name": "jets-apply-now",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "86368a7d-98fa-4de1-b8ad-18038d86e8fe",
+          "required": false,
+          "dataType": "@applyNow",
+          "name": "applyNow",
+          "value": "$applyNow",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Application Form Link",
+          "subtitle": "JETS Application",
+          "imageUrl": "https://4.bp.blogspot.com/-_XHZVCDwEcc/V9_CAYNkjpI/AAAAAAAAGsE/QUg9mOn-dyg_ScLQI-aJPN0rNHOXsSUXwCLcB/s1600/Jardine%2BMatheson%2BHoldings.png",
+          "buttons": [
+            {
+              "text": "Click here",
+              "postback": "https://www2.jardinesrecruit.com/jets_form/"
+            }
+          ]
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "payload": {
+            "platform": "kommunicate",
+            "metadata": {
+              "contentType": "300",
+              "templateId": "10",
+              "payload": [
+                {
+                  "title": "Apply Now",
+                  "header": {
+                    "imgSrc": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Jardine_Matheson_Holdings_logo.svg/1200px-Jardine_Matheson_Holdings_logo.png"
+                  },
+                  "description": "JETS Application 2020",
+                  "buttons": [
+                    {
+                      "name": "Proceed to Application Form",
+                      "action": {
+                        "type": "link",
+                        "payload": {
+                          "url": "https://www2.jardinesrecruit.com/jets_form/"
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false,
+        "skype": false,
+        "facebook": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551148521,
+  "fallbackIntent": false,
+  "events": []
+}

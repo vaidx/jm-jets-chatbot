@@ -1,0 +1,41 @@
+{
+  "id": "2301e9d5-d388-44f3-9543-6557e2d2b2b4",
+  "name": "convo-extension",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Cool",
+            "😀",
+            "❤️",
+            "Nice",
+            "🥰",
+            "😊",
+            ";)",
+            ":)",
+            "Awesome!",
+            "😃",
+            "🙂"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

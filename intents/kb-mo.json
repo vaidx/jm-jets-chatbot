@@ -1,0 +1,62 @@
+{
+  "id": "8793bab5-3163-456c-ae1c-ef52f71ac02c",
+  "name": "kb-mo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Mandarin Oriental",
+          "imageUrl": "https://careers.jardines.com/storage/2018/08/MO.jpg",
+          "buttons": []
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Mandarin Oriental is an international hotel investment and management group with deluxe and first class hotels, resorts and residences in sought-after destinations. The group operates 31 hotels and eight residences in 21 countries and territories, and has a strong pipeline of properties under development."
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "As an innovative industry leader, the group is committed to exceeding its guests’ expectations through exceptional levels of hospitality."
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "payload": {
+            "platform": "kommunicate",
+            "metadata": {
+              "contentType": "300",
+              "templateId": "10",
+              "payload": [
+                {
+                  "title": "Mandarin Oriental",
+                  "subtitle": "Mandarin Oriental is an international hotel investment and management group with deluxe and first class hotels, resorts and residences in sought-after destinations. The group operates 31 hotels and eight residences in 21 countries and territories, and has a strong pipeline of properties under development. As an innovative industry leader, the group is committed to exceeding its guests’ expectations through exceptional levels of hospitality.",
+                  "header": {
+                    "imgSrc": "https://careers.jardines.com/storage/2018/08/MO.jpg"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

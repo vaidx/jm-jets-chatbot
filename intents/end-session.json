@@ -1,0 +1,73 @@
+{
+  "id": "05552c3e-657c-498c-91be-fcdded1830fd",
+  "name": "end-session",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "end-session-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "1bfeb9f6-e1ca-45e3-a5ad-528f5063d60d",
+          "required": false,
+          "dataType": "@userQuit",
+          "name": "userQuit",
+          "value": "$userQuit",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 4,
+          "lang": "en",
+          "payload": {
+            "message": "Are you sure you want to quit?",
+            "platform": "kommunicate",
+            "metadata": {
+              "contentType": "300",
+              "templateId": "6",
+              "payload": [
+                {
+                  "title": "Yes",
+                  "message": "Yes"
+                },
+                {
+                  "title": "No ",
+                  "message": "No"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Are you sure you want to quit?",
+          "replies": [
+            "Yes",
+            "No"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false,
+        "facebook": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551317241,
+  "fallbackIntent": false,
+  "events": []
+}

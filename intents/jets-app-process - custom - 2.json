@@ -1,0 +1,41 @@
+{
+  "id": "d27945d5-7aea-4049-91c6-5332293eae88",
+  "parentId": "81921c49-9409-47ac-9360-e0a714a82ffb",
+  "rootParentId": "81921c49-9409-47ac-9360-e0a714a82ffb",
+  "name": "jets-app-process - custom - 2",
+  "auto": true,
+  "contexts": [
+    "jets-app-process-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "jets-app-process.jets-app-process-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4215fd87-64e4-42a1-a65f-ee91680dcf24",
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You’ll be asked to complete three timed online tests."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

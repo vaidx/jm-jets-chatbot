@@ -1,0 +1,58 @@
+[
+  {
+    "id": "68e1da7b-ecab-4fe1-9f12-8110af1e9fa5",
+    "data": [
+      {
+        "text": "make me laugh",
+        "alias": "joke",
+        "meta": "@joke",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551234369
+  },
+  {
+    "id": "98e71e34-55b3-4a6d-a13c-5617795eaad7",
+    "data": [
+      {
+        "text": "tell me a joke",
+        "alias": "joke",
+        "meta": "@joke",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551234369
+  },
+  {
+    "id": "1f2e4ba1-ae8f-45e7-85a7-d5308dc57317",
+    "data": [
+      {
+        "text": "give me funny jokes",
+        "alias": "joke",
+        "meta": "@joke",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551234369
+  },
+  {
+    "id": "dce00352-07e1-40c9-8f35-bb5658d9e644",
+    "data": [
+      {
+        "text": "funny jokes",
+        "alias": "joke",
+        "meta": "@joke",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551234369
+  }
+]

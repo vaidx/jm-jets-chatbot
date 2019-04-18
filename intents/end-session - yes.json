@@ -1,0 +1,45 @@
+{
+  "id": "40b0e8d3-17a2-44b2-90f9-c2c5196ab312",
+  "parentId": "05552c3e-657c-498c-91be-fcdded1830fd",
+  "rootParentId": "05552c3e-657c-498c-91be-fcdded1830fd",
+  "name": "end-session - yes",
+  "auto": true,
+  "contexts": [
+    "end-session-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "end-session.end-session-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": [
+            "Bye! Hope you had a good time!",
+            "See you again! Bye ;)"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Bye! Hope you had a good time!",
+            "See you again! Bye ;)"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531867231,
+  "fallbackIntent": false,
+  "events": []
+}

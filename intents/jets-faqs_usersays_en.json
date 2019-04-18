@@ -1,0 +1,328 @@
+[
+  {
+    "id": "3145bec2-1706-49ea-8a73-661e4b9a6213",
+    "data": [
+      {
+        "text": "I failed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fddf43c4-d0eb-4069-b6f3-7b0eaa5516f0",
+    "data": [
+      {
+        "text": "Which ",
+        "userDefined": false
+      },
+      {
+        "text": "six",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " functions will I experience through JETS?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c7450cfb-5522-4cd1-bb54-8df722afbb34",
+    "data": [
+      {
+        "text": "faqs",
+        "alias": "faqs",
+        "meta": "@faqs",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539659258
+  },
+  {
+    "id": "1692df5f-e571-4a05-b738-f81d800066b9",
+    "data": [
+      {
+        "text": "When will I hear back if I am selected for Assessment Centre?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e696ea4f-1078-448e-9b37-3ca366b09eac",
+    "data": [
+      {
+        "text": "faqs for JETS",
+        "alias": "faqs",
+        "meta": "@faqs",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539659568
+  },
+  {
+    "id": "9bdfacc1-8c95-4808-85b5-b65e031cbc5d",
+    "data": [
+      {
+        "text": "what are the six functions specifically?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "a03dde1b-aecf-45ab-9d72-f2f6d7cbd923",
+    "data": [
+      {
+        "text": "What management and leadership training will JETS provide?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8860f394-d84f-4ffa-bdf4-e82453faabe3",
+    "data": [
+      {
+        "text": "How many graduate trainees will Jardines take on each year?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a6c3b18f-21ee-4855-a71e-2aec6007fb83",
+    "data": [
+      {
+        "text": "I do not have a business background. How do we prepare for the selection process?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9b2a54f6-6841-4d0d-a9a5-8a1c33ccf1f1",
+    "data": [
+      {
+        "text": "Will I get overseas exposure?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "30b6804c-602b-40f3-a307-f57b7d41477e",
+    "data": [
+      {
+        "text": "How far can I expect to progress at Jardines?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "881d208b-1f0b-4811-81ab-e1705eee9a96",
+    "data": [
+      {
+        "text": "How long is the process from beginning to end?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "581f7518-d636-4164-9f90-26d3212a2610",
+    "data": [
+      {
+        "text": "If my application is successful, when will I start?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "55c68a36-2825-4a5d-8686-d37ad76784f8",
+    "data": [
+      {
+        "text": "Can I choose which business to work in?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "09f5f0de-cd6a-4083-9218-56ec4022d8ae",
+    "data": [
+      {
+        "text": "6",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " functions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "3b2e4743-49dc-4175-bdf8-11293a6c0cbc",
+    "data": [
+      {
+        "text": "What qualities are you looking for?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "86727475-3095-4ef7-8e08-35087ae320e7",
+    "data": [
+      {
+        "text": "What happens at an Assessment Centre (AC)?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0cc894f6-af24-45ac-9516-37d2eb9f94d1",
+    "data": [
+      {
+        "text": "JETS faq",
+        "alias": "faqs",
+        "meta": "@faqs",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539659568
+  },
+  {
+    "id": "7f3eda93-bec4-4b62-a90f-4ad95c9d3755",
+    "data": [
+      {
+        "text": "faq",
+        "alias": "faqs",
+        "meta": "@faqs",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539659258
+  },
+  {
+    "id": "7b20a756-d29a-4ac9-b3a0-b6155cdea002",
+    "data": [
+      {
+        "text": "If I am unsuccessful in my application, can I re-apply?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a6f989d2-7248-477a-ba64-2e39f5be1192",
+    "data": [
+      {
+        "text": "Can I make a speculative application by email?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6434d3a1-6874-43d5-b735-63727a4df4e3",
+    "data": [
+      {
+        "text": "faqs",
+        "alias": "faqs",
+        "meta": "@faqs",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "about",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "JETS",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539659568
+  },
+  {
+    "id": "172e707a-30ad-4e60-bade-4d7f03ad87a8",
+    "data": [
+      {
+        "text": "Do you hire graduates with some work experience?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "95bd477a-b664-433d-9fcd-68a22496b695",
+    "data": [
+      {
+        "text": "Do you recruit ",
+        "userDefined": false
+      },
+      {
+        "text": "Jardine",
+        "alias": "jardines",
+        "meta": "@jardines",
+        "userDefined": false
+      },
+      {
+        "text": " Executive Trainee on a rolling basis?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

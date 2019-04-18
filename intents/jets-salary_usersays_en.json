@@ -1,0 +1,95 @@
+[
+  {
+    "id": "d9bc4ab1-86b3-4ceb-a777-101547f6cbd6",
+    "data": [
+      {
+        "text": "Salary",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551148956
+  },
+  {
+    "id": "ed7d08b6-ed3a-4aba-9098-79bd26c457d4",
+    "data": [
+      {
+        "text": "How much money will I get",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551148956
+  },
+  {
+    "id": "714ac503-7648-4cd1-b563-16c1ea46c4af",
+    "data": [
+      {
+        "text": "How much will be my salary?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551148956
+  },
+  {
+    "id": "a04b9fbd-2924-43e1-a0d9-b9971e0afffb",
+    "data": [
+      {
+        "text": "salary expectations",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551148956
+  },
+  {
+    "id": "26753681-37e2-4d48-98bc-df7279e1737d",
+    "data": [
+      {
+        "text": "Do we all get the same salaries when we qualify?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551148786
+  },
+  {
+    "id": "74bea12e-5f7c-498d-a1d9-169844e7744c",
+    "data": [
+      {
+        "text": "What will be my salary when I complete the program?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551148956
+  },
+  {
+    "id": "b920d624-3f70-4f0c-8868-5febaa49cbaf",
+    "data": [
+      {
+        "text": "Salary for ",
+        "userDefined": false
+      },
+      {
+        "text": "JETS",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " employee?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551148956
+  }
+]

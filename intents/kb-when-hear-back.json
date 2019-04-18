@@ -1,0 +1,33 @@
+{
+  "id": "7078052b-8621-41bc-86fd-3c71851b9015",
+  "name": "kb-when-hear-back",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "You can expect to hear back from us within 6 weeks after the application deadline"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can expect to hear back from us within 6 weeks after the application deadline."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

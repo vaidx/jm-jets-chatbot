@@ -1,0 +1,47 @@
+{
+  "id": "8d67a114-a01d-4231-9aa4-f3730ac76053",
+  "name": "jm-history",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "We have been guided by Rare Talent since 1832. Jardine and Matheson were visionary leaders, risk-takers, insightful entrepreneurs and innovative thinkers. Qualities like these led our business through almost 200 transformative years of economic cycles, industrial and technological revolutions."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Since our founding, we have doubled down and expanded our operations across industries, and in the process make us part of Asia’s success story."
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "We have been guided by Rare Talent since 1832. Jardine and Matheson were visionary leaders, risk-takers, insightful entrepreneurs and innovative thinkers. Qualities like these led our business through almost 200 transformative years of economic cycles, industrial and technological revolutions."
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Since our founding, we have doubled down and expanded our operations across industries, and in the process make us part of Asia’s success story."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1550540975,
+  "fallbackIntent": false,
+  "events": []
+}

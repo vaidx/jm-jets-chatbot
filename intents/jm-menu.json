@@ -1,0 +1,134 @@
+{
+  "id": "c92c4b7f-8e1d-44fb-abd9-b6ad8e4d7460",
+  "name": "jm-menu",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Menu",
+          "subtitle": "Choose an option to explore more!",
+          "imageUrl": "https://4.bp.blogspot.com/-_XHZVCDwEcc/V9_CAYNkjpI/AAAAAAAAGsE/QUg9mOn-dyg_ScLQI-aJPN0rNHOXsSUXwCLcB/s1600/Jardine%2BMatheson%2BHoldings.png",
+          "buttons": [
+            {
+              "text": "About Jardines",
+              "postback": "About Us"
+            },
+            {
+              "text": "Trainee Scheme",
+              "postback": "JETS"
+            },
+            {
+              "text": "FAQs (for JETS)",
+              "postback": "FAQs"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Menu",
+          "subtitle": "Choose an option to explore more!",
+          "imageUrl": "https://4.bp.blogspot.com/-_XHZVCDwEcc/V9_CAYNkjpI/AAAAAAAAGsE/QUg9mOn-dyg_ScLQI-aJPN0rNHOXsSUXwCLcB/s1600/Jardine%2BMatheson%2BHoldings.png",
+          "buttons": [
+            {
+              "text": "Contact Us",
+              "postback": "Contact Us"
+            },
+            {
+              "text": "Apply Now",
+              "postback": "Apply Now"
+            }
+          ]
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "payload": {
+            "platform": "kommunicate",
+            "metadata": {
+              "contentType": "300",
+              "templateId": "10",
+              "payload": [
+                {
+                  "title": "Menu",
+                  "subtitle": "Choose an option to explore more!",
+                  "header": {
+                    "imgSrc": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Jardine_Matheson_Holdings_logo.svg/1200px-Jardine_Matheson_Holdings_logo.png"
+                  },
+                  "buttons": [
+                    {
+                      "name": "Suggested Reply",
+                      "action": {
+                        "type": "quickReply",
+                        "payload": {
+                          "title": "About Jardines",
+                          "message": "About Jardines"
+                        }
+                      }
+                    },
+                    {
+                      "name": "Suggested Reply",
+                      "action": {
+                        "type": "quickReply",
+                        "payload": {
+                          "title": "Trainee Scheme",
+                          "message": "Trainee Scheme"
+                        }
+                      }
+                    },
+                    {
+                      "name": "Suggested Reply",
+                      "action": {
+                        "type": "quickReply",
+                        "payload": {
+                          "title": "FAQs (for JETS)",
+                          "message": "FAQs"
+                        }
+                      }
+                    },
+                    {
+                      "name": "Suggested Reply",
+                      "action": {
+                        "type": "quickReply",
+                        "payload": {
+                          "title": "Contact Us",
+                          "message": "Contact Us"
+                        }
+                      }
+                    },
+                    {
+                      "name": "Suggested Reply",
+                      "action": {
+                        "type": "quickReply",
+                        "payload": {
+                          "title": "Apply Now",
+                          "message": "Apply Now"
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

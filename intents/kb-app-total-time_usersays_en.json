@@ -1,0 +1,78 @@
+[
+  {
+    "id": "a59e082d-4792-4cff-b1eb-ffe58317d03b",
+    "data": [
+      {
+        "text": "how much time will the application process take?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ead940f1-a28f-457d-8b0f-652aff4fae41",
+    "data": [
+      {
+        "text": "when will the results be out?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a9a7de79-d23c-4b63-a71d-ad1f22538f01",
+    "data": [
+      {
+        "text": "what is the estimated time required for the whole ",
+        "userDefined": false
+      },
+      {
+        "text": "JETS",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " process?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6c0bedab-c28d-4acc-94de-9f965aa34127",
+    "data": [
+      {
+        "text": "how much time before I can get hired?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d5ea0755-e2b7-4f3a-ad80-2147fe1d2848",
+    "data": [
+      {
+        "text": "total time for application?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "11c969c3-2055-4b00-95d5-d029de45801e",
+    "data": [
+      {
+        "text": "How long is the process from beginning to end?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
