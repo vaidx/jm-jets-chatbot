@@ -1,4 +1,4 @@
-# jets-chatbot
+# jm-jets-chatbot
 
 ### Platforms in use - 
 - _Dialogflow_ - A Google-owned platform that give users new ways to interact with your product by building engaging voice and text-based     conversational interfaces, such as voice apps and chatbots, powered by AI.
