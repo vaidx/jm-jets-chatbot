@@ -1,4 +1,4 @@
-# jm-jets-chatbot
+# JETS Careers Chatbot
 
 ### Platforms in use - 
 - _Dialogflow_ - A Google-owned platform that give users new ways to interact with your product by building engaging voice and text-based     conversational interfaces, such as voice apps and chatbots, powered by AI.
@@ -24,7 +24,7 @@
 - Smallcase naming convention has been applied throughout the project.
 - Breaking down intent naming into jm-, jets-, and kb- primary classes.
 
-### Suggested Improvements
+### Suggested Improvements -
 - Migrate from static to dynamic responses using Firebase database.
 - Using data from other sources for training phases.
 - Addition of entities for more accurate intent matching.
