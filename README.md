@@ -3,8 +3,7 @@
 ### Platforms in use - 
 - _Dialogflow_ - A Google-owned platform that give users new ways to interact with your product by building engaging voice and text-based     conversational interfaces, such as voice apps and chatbots, powered by AI.
 - _Facebook Messenger_ - Integration for Chat UI.
-- _Firebase_ - Cloud Firestore is a flexible, scalable database for mobile, web, and server development from Firebase and Google Cloud    Platform. (To be used as a database for delivering dynamic responses via an API)
-- _Kommunicate_
+- _Kommunicate_ - Kommunicate is a live chat and chatbots powered software for real-time, proactive and efficient customer support.
 
 ### Features -
 - Answers questions related to JETS recruitment.
