@@ -25,40 +25,40 @@
 - Breaking down intent naming into jm-, jets-, and kb- primary classes.
 
 ### Maintenance -
-Intents
-bad-words
-contact-us
-Default Fallback 
-Default Welcome
-end-session
-jets-app-process
-jets-app-timeline-center
-jets-info
-jets-salary
-jets-about
-jm-about
-jm-company
-jm-history
-jm-menue
-jokes
-kb-app-rolling
-kb-app-total-time
-kb-astra
-kb-df
-kb-email-apply
-kb-hk-land
-kb-intake-num
-kb-jcc
-kb-jmmotors
-kb-jp
-kb-mo
-kb-reapply
-kb-when-hear-back
-kb-work-exp
+##Intents : (brief reply content)
+- bad-words
+- contact-us
+- Default Fallback 
+- Default Welcome
+- end-session
+- jets-app-process
+- jets-app-timeline-center
+- jets-info
+- jets-salary
+- jets-about
+- jm-about
+- jm-company
+- jm-history
+- jm-menue
+- jokes
+- kb-app-rolling
+- kb-app-total-time
+- kb-astra
+- kb-df : About Daily Farm
+- kb-email-apply : Emphasis application method must be done by online application
+- kb-hk-land: About Hong Kong Land
+- kb-intake-num : About number of quota
+- kb-jcc : About Jardine Cycle & Carriage 
+- kb-jmmotors : About Jardine motors
+- kb-jp : Jardine Pacific
+- kb-mo : Mandarin Oriental
+- kb-reapply : People can re-apply even they have failed in previous year application
+- kb-when-hear-back : The duration to get the application results
+- kb-work-exp : It is not a must to have work experience. Target are fresh graduates.
 
-Entities
+##Entities
 
-1.Training Data (train users' input to correct intents)
+1. Training Data (train users' input to correct intents)
 means add more training phrase that triggers the Intent
 
 
