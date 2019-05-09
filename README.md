@@ -24,8 +24,8 @@
 - Smallcase naming convention has been applied throughout the project.
 - Breaking down intent naming into jm-, jets-, and kb- primary classes.
 
-### Maintenance -
-##Intents : (brief reply content)
+
+### Intents : (brief reply content)
 - bad-words : 
 - contact-us : Ask for Contact.
 - convo-extension : Reply Emoji.
@@ -58,7 +58,7 @@
 - kb-when-hear-back : The duration to get the application results
 - kb-work-exp : It is not a must to have work experience. Target are fresh graduates.
 
-##Entities : like key words. They add context to an intent and improves the Bot intents detection. 
+## Entities : like key words. They add context to an intent and improves the Bot intents detection. 
 -about
 -applicationTimeline
 -applyNow
@@ -70,7 +70,7 @@
 -process
 -userQuit
 
-
+### Maintenance -
 1. Training Data (train users' input to correct intents)
 means add more training phrase that triggers the Intent
 
