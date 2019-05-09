@@ -24,6 +24,48 @@
 - Smallcase naming convention has been applied throughout the project.
 - Breaking down intent naming into jm-, jets-, and kb- primary classes.
 
+### Maintenance -
+Intents
+bad-words
+contact-us
+Default Fallback 
+Default Welcome
+end-session
+jets-app-process
+jets-app-timeline-center
+jets-info
+jets-salary
+jets-about
+jm-about
+jm-company
+jm-history
+jm-menue
+jokes
+kb-app-rolling
+kb-app-total-time
+kb-astra
+kb-df
+kb-email-apply
+kb-hk-land
+kb-intake-num
+kb-jcc
+kb-jmmotors
+kb-jp
+kb-mo
+kb-reapply
+kb-when-hear-back
+kb-work-exp
+
+Entities
+
+1.Training Data (train users' input to correct intents)
+means add more training phrase that triggers the Intent
+
+
+2. Add / Change Responses (the content answered by the chatbot)
+Press Intents, go to section Response and press button ADD RESPONSES 
+
+
 ### Suggested Improvements -
 - Migrate from static to dynamic responses using Firebase database.
 - Using data from other sources for training phases.
