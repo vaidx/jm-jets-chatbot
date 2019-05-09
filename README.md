@@ -26,24 +26,26 @@
 
 ### Maintenance -
 ##Intents : (brief reply content)
-- bad-words
-- contact-us
-- Default Fallback 
-- Default Welcome
-- end-session
-- jets-app-process
-- jets-app-timeline-center
-- jets-info
-- jets-salary
-- jets-about
-- jm-about
-- jm-company
-- jm-history
-- jm-menue
-- jokes
-- kb-app-rolling
-- kb-app-total-time
-- kb-astra
+- bad-words : 
+- contact-us : Ask for Contact.
+- convo-extension : Reply Emoji.
+- Default Fallback : Ask user to type their question again.
+- Default Welcome : First chatbot reply. Greeting and showing a menue.
+- end-session : Ensure user will quit chatbot. Last chatbot reply.
+- jets-app-process : List all application process: 1. Online Application (10 mins) 2. Online Tests (70 mins) 3. On-Demand Video Interview (20 mins) 4. Assessment Centre (Full Day, In person) 5. Offer
+- jets-app-timeline-center : Show all Assessment Schedule.
+- jets-apply-now : Link to Application Form.
+- jets-faqs : Show a menu of all FAQs. To direct user to their desired FAQs.
+- jets-info : About JETS, focus on the benefits of joining JETS.
+- jets-salary : About the salary in JETS Programe
+- jm-about : Show the menue of all "About", include Our Company, History, Business Unit
+- jm-company : About Jardine and Matheson
+- jm-history : About Jardine and Matheson
+- jm-menue : Show the menue. To direct user to their desired 
+- jokes : No response. Debug purpose.
+- kb-app-rolling : Application process is NOT on a rolling basis, there is screening
+- kb-app-total-time : The duration of entire recruitment processes from appling to giving offer 
+- kb-astra : About Astra International
 - kb-df : About Daily Farm
 - kb-email-apply : Emphasis application method must be done by online application
 - kb-hk-land: About Hong Kong Land
