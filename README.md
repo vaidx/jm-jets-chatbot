@@ -58,7 +58,7 @@
 - kb-when-hear-back : The duration to get the application results
 - kb-work-exp : It is not a must to have work experience. Target are fresh graduates.
 
-### Entities : like key words. They add context to an intent and improves the Bot intents detection. 
+### Entities : like key words. They add context to an intent and improve the Bot intents detection. 
 -about
 -applicationTimeline
 -applyNow
