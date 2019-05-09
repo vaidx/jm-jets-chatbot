@@ -72,11 +72,15 @@
 
 ### Maintenance -
 1. Training Data (train users' input to correct intents)
-means add more training phrase that triggers the Intent
-
+- To add more training phrase that triggers the Intent:
+- Press Training, check if there are No match. If there is number indicating No match, pree the conversation to assign an intent for it.
+- You may press > to check matched intent.
 
 2. Add / Change Responses (the content answered by the chatbot)
-Press Intents, go to section Response and press button ADD RESPONSES 
+- Press Intents, go to section Response and press button ADD RESPONSES or change content directly.
+
+3. Add more synonyms for entities
+- Press Entities, click the edit icon and enter synonyms.
 
 
 ### Suggested Improvements -
