@@ -25,7 +25,7 @@
 - Breaking down intent naming into jm-, jets-, and kb- primary classes.
 
 
-### Intents : (brief reply content)
+### Intents : (brief reply content) -
 - bad-words : 
 - contact-us : Ask for Contact.
 - convo-extension : Reply Emoji.
