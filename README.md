@@ -91,7 +91,7 @@
 - Addition of entities for more accurate intent matching.
 
 ### Resources -
-
+- [DialogFlow Build An Agent - Basic Concept](https://dialogflow.com/docs/tutorial-build-an-agent?authuser=1)
 - [DialogFlow Getting Starting Guide](https://dialogflow.com/docs/getting-started)
 - [Facebook Messenger Integration](https://dialogflow.com/docs/integrations/facebook)
 - [Firebase](https://firebase.google.com/docs/firestore/)
